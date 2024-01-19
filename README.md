@@ -3,5 +3,5 @@
 
 Choose the following programming test
 
-- [Mobile](https://github.com/moovup/programming-test/blob/master/mobile.md)
-- [Web](https://github.com/moovup/programming-test/blob/master/web.md)
+- [Mobile](https://github.com/daniel-space2024/programming-test/tree/master/assets/web)
+- [Web](https://github.com/daniel-space2024/programming-test/tree/master/assets/web)
