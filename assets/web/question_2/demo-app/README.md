@@ -15,8 +15,9 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
 
-git clone [https://your-repository-url.git](https://github.com/daniel-space2024/programming-test.git)
+git clone https://github.com/daniel-space2024/programming-test.git
 cd demo-app
+
 2. Install NPM packages:
 
 npm install  
